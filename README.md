@@ -39,18 +39,4 @@ Hi there! I’m Rohan Irshad 🚀 — a Flutter Developer from Lahore, Pakistan 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
-![3D Profile - Night View](https://raw.githubusercontent.com/rohanirshad/rohanirshad/main/profile-3d-contrib/profile-night-view.svg)
-
-
-### 🏆 My 3D GitHub Contribution Graph
-![3D GitHub Profile](https://raw.githubusercontent.com/rohanirshad/rohanirshad/main/profile-3d-contrib/profile-green-animate.svg)
-
----
-
-### ⚡ GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanirshad&show_icons=true&theme=radical)
-
----
-
-### 🧠 Languages I Use Most
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanirshad&layout=compact&theme=radical)
+![3D Profile - Night Rainbow](https://raw.githubusercontent.com/rohanirshad/rohanirshad/main/profile-3d-contrib/profile-night-view.svg)
