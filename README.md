@@ -38,10 +38,3 @@ Hi there! I’m Rohan Irshad 🚀 — a Flutter Developer from Lahore, Pakistan 
 ![](https://github-contributor-stats.vercel.app/api?username=rohanirshad&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
-
----
-[![](https://visitcount.itsvg.in/api?id=rohanirshad&icon=2&color=9)](https://visitcount.itsvg.in)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
