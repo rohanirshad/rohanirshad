@@ -22,16 +22,26 @@ Hi there! I’m Rohan Irshad 🚀 — a Flutter Developer from Lahore, Pakistan 
 ![](https://nirzak-streak-stats.vercel.app/?user=rohanirshad&theme=maroongold&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanirshad&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rohanirshad&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rohanirshad&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
+
 ---
 [![](https://visitcount.itsvg.in/api?id=rohanirshad&icon=2&color=9)](https://visitcount.itsvg.in)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
