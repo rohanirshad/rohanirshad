@@ -2,7 +2,7 @@
 <p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 
-💫 About Me:
+# 💫 About Me:
 Hi there! I’m Rohan Irshad 🚀 — a Flutter Developer from Lahore, Pakistan 🇵🇰.<br>I love building cross-platform mobile apps with beautiful UIs, smooth performance, and clean architecture.<br><br>✨ What I do:<br><br>📱 Flutter & Dart for cross-platform app development<br><br>⚡ State management with GetX, Provider & MVVM<br><br>🔥 Firebase (Auth, Firestore, Crashlytics, Push Notifications)<br><br>💾 Local storage using Hive, SharedPreferences & GetStorage<br><br>🌱 Currently learning:<br><br>🔗 REST API integration<br><br>🏗️ Clean architecture & scalable patterns<br><br>🌍 App localization (English + Urdu with RTL support)<br><br>🤝 Let’s connect:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
